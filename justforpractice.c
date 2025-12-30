@@ -9,7 +9,9 @@ int main()
     printf("%d\n",sum1);
     printf("%d\n",sum2);
      printf("%d\n",sum3);
-    
+     return 0;
+     
+     
     
 
 
